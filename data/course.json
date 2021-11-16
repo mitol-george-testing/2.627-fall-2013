@@ -1,0 +1,59 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electric Power"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Electronic Materials"
+    ],
+    [
+      "Engineering",
+      "Chemical Engineering",
+      "Transport Processes"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Energy",
+      "Renewables"
+    ],
+    [
+      "Energy",
+      "Electricity"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6bb7f47e-31f1-a11f-a4d1-a8100c160d99"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Fundamentals of Photovoltaics",
+  "course_description": "Fundamentals of photoelectric conversion: charge excitation, conduction, separation, and collection. Lectures cover commercial and emerging photovoltaic technologies and cross-cutting themes, including conversion efficiencies, loss mechanisms, characterization, manufacturing, systems, reliability, life-cycle analysis, risk analysis, and technology evolution in the context of markets, policies, society, and environment.\n\nThis course is one of many [OCW Energy Courses](/courses/energy-courses/), and it is an elective subject in MIT's undergraduate [Energy Studies Minor](http://mitei.mit.edu/education/energy-minor/). This Institute\u2013wide program complements the deep expertise obtained in any major with a broad understanding of the interlinked realms of science, technology, and social sciences as they relate to energy and associated environmental challenges.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "2.626",
+  "primary_course_number": "2.627",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Tutorial Videos",
+    "Problem Sets",
+    "Lecture Notes",
+    "Projects with Examples",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
